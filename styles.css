@@ -83,3 +83,18 @@ h2, h3, h4, p {
     padding-top: 20px;
 }
 
+.btnTop {
+    color: black;
+    position: fixed;
+    bottom: 10px;
+    float: right;
+    right: 18.5%;
+    left: 77.25%;
+    max-width: 30px;
+    width: 100%;
+    font-size: 12px;
+    border-color: rgba(85, 85, 85, 0.2);
+    background-color: rgb(100,100,100);
+    padding: .5px;
+    border-radius: 4px;
+}
